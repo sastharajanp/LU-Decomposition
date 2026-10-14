@@ -9,7 +9,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 1. Import os and Import the numpy module to use the built-in functions.
-2. Read the input matrix Aand perform LU decomposition to obtain the L and U matrices.
+2. Read the input matrix and perform LU decomposition to obtain the L and U matrices.
 3. Read the right-hand-side matrix B and solve the system AX = B using LU decomposition.
 4. Display the L, U and the solution X matrices , then stop the program.
 
